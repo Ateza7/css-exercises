@@ -1,0 +1,19 @@
+.light-red {
+    background-color: rgb(255, 144, 144);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#num-2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#num-4 {
+    background-color : rgb(112, 237, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
