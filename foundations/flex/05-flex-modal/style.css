@@ -20,7 +20,40 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 16px;
+  display: flex;
 }
+
+.top-container {
+  display: flex;
+}
+
+.icon-container {
+  margin-right: 8px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.text {
+  margin: 10px 0;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: auto;
+}
+
+.left-part-container {
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+
+
 
 .icon {
   color: royalblue;
